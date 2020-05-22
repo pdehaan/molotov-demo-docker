@@ -1,0 +1,2 @@
+aiodogstatsd==0.11.0
+pkg-resources==0.0.0
